@@ -1,0 +1,14 @@
+# Données Kaggle (jamais push)
+data/
+
+# Python env & caches
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac / VS Code
+.DS_Store
+.vscode/
